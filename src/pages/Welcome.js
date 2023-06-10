@@ -9,7 +9,7 @@ import { useEffect }  from 'react';
 
 const Welcome = () => {
   useEffect(() => {
-    alert(`Account already created. Login with these details:  email: 'qlick500@gmail.com', password: 'ppww5566'`);
+    alert(`Account already created. Click on Log in and login with these details:  email: 'qlick500@gmail.com', password: 'ppww5566'`);
   })
   return (
     <div
