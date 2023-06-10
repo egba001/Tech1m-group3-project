@@ -7,6 +7,9 @@ import arrow from "../assets/icons/arrow-right.svg";
 import home from "../assets/icons/home-2.svg";
 
 const Welcome = () => {
+  useEffect(() => {
+    alert(`Login details:  email: emekason128@gmail.com, password: ########`);
+  })
   return (
     <div
       className=" h-screen"
