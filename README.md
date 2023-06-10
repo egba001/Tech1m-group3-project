@@ -3,7 +3,7 @@ Final project for the tech1m frontend development bootcamp program. Tech1m junio
 
 # Contributors:
 * [Temitope Okesanya](https://github.com/Temyturpe)
-* [Nnaemeka Egba](https://github.com/egba001)
+* [Nnaemeka Egba](https://github.com/egba001) (Myself)
 * [Ololade Akinrinsola](https://github.com/Lolaakinrinsola)
 
 # About the project
@@ -17,6 +17,20 @@ Tools used to create this project:
 * React Icons (for icons)
 * React Router (for routing) ![REACT ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 * NPM ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+# My contibutions
+
+* Assisted in implementing the course page (Page 6).
+- Implemented the display of courses and their details in the course page.
+
+* Assisted in implementing the students page (Page 7).
+- Implemented the display of student details in a table in the students page.
+
+* Assisted in implementing the payment page.
+- Implemented the display of payment details made by students
+
+* Contributed to the messages page (Page 9)
+- Implementing the messages page.
 
 This website includes 9 pages:
 # page1: (welcome page)
