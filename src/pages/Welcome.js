@@ -5,6 +5,7 @@ import "../assets/css/global.css";
 import { Link } from "react-router-dom";
 import arrow from "../assets/icons/arrow-right.svg";
 import home from "../assets/icons/home-2.svg";
+import { useEffect }  from 'react';
 
 const Welcome = () => {
   useEffect(() => {
