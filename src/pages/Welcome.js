@@ -45,7 +45,7 @@ const Welcome = () => {
 
             <small className="text-white-30 ">
               Already have an account!{" "}
-              <Link to="/login" className="text-primary-200">
+              <Link to="/login" className="text-white">
                 Log in
               </Link>
             </small>
